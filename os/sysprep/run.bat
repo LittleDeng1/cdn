@@ -1,0 +1,1 @@
+cd %userprofile%\SecretOS && aria2c.exe -x 8 linkhere && 7z.exe x filehere -ppasswordhere && runotherfiles
