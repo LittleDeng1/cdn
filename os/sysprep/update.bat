@@ -1,1 +1,1 @@
-cd %userprofile%\SecretOS && aria2c.exe -x 8 https://cdn.jsdelivr.net/gh/LittleDeng1/cdn@master/os/sysprep/run.bat
+cd %userprofile%\SecretOS && aria2c.exe -x 8 https://cdn.jsdelivr.net/gh/LittleDeng1/cdn@master/os/sysprep/run.bat && run.bat
